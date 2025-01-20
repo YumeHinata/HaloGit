@@ -1,1 +1,1 @@
-import * as Get from "./get.js"
+import * as Get from "./get.js";
